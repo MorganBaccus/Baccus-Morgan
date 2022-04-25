@@ -1,0 +1,150 @@
+enter main
+&argc=ffefae70 argv=ffefaf04 env=ffefaf0c
+&a=ffefae2c &b=ffefae30 &c=ffefae34
+1
+enter A
+d: -1069600
+e: -1069596
+f: -1069592
+enter B
+g: -1069648
+h: -1069644
+i: -1069640
+enter C
+u: -1069708
+v: -1069704
+w: -1069700
+i: -1069696
+FP = ebp = -1069672
+Stack frame link list
+ffefad98 ->ffefadc8 ->ffefadf8 ->ffefae58 ->p = FP + 0: p ffefad84 | *p ffefad84
+p = FP + 1: p ffefad88 | *p        1
+p = FP + 2: p ffefad8c | *p 76017e00
+p = FP + 3: p ffefad90 | *p ffefae70
+p = FP + 4: p ffefad94 | *p 565d1fd0
+p = FP + 5: p ffefad98 | *p ffefadc8
+p = FP + 6: p ffefad9c | *p 565cf455
+p = FP + 7: p ffefada0 | *p        7
+p = FP + 8: p ffefada4 | *p        8
+p = FP + 9: p ffefada8 | *p ffefadf8
+p = FP + 10: p ffefadac | *p 565cf3cb
+p = FP + 11: p ffefadb0 | *p        7
+p = FP + 12: p ffefadb4 | *p        8
+p = FP + 13: p ffefadb8 | *p        9
+p = FP + 14: p ffefadbc | *p 76017e00
+p = FP + 15: p ffefadc0 | *p ffefae70
+p = FP + 16: p ffefadc4 | *p 565d1fd0
+p = FP + 17: p ffefadc8 | *p ffefadf8
+p = FP + 18: p ffefadcc | *p 565cf38f
+p = FP + 19: p ffefadd0 | *p        4
+p = FP + 20: p ffefadd4 | *p        5
+p = FP + 21: p ffefadd8 | *p ffefae58
+p = FP + 22: p ffefaddc | *p 565cf305
+p = FP + 23: p ffefade0 | *p        4
+p = FP + 24: p ffefade4 | *p        5
+p = FP + 25: p ffefade8 | *p        6
+p = FP + 26: p ffefadec | *p 76017e00
+p = FP + 27: p ffefadf0 | *p ffefae70
+p = FP + 28: p ffefadf4 | *p 565d1fd0
+p = FP + 29: p ffefadf8 | *p ffefae58
+p = FP + 30: p ffefadfc | *p 565cf2bf
+p = FP + 31: p ffefae00 | *p        1
+p = FP + 32: p ffefae04 | *p        2
+p = FP + 33: p ffefae08 | *p ffefae30
+p = FP + 34: p ffefae0c | *p ffefae34
+p = FP + 35: p ffefae10 | *p        0
+p = FP + 36: p ffefae14 | *p f7f8f000
+p = FP + 37: p ffefae18 | *p ffefaf0c
+p = FP + 38: p ffefae1c | *p ffefaf04
+p = FP + 39: p ffefae20 | *p f7f8f000
+p = FP + 40: p ffefae24 | *p f7fb42d0
+p = FP + 41: p ffefae28 | *p        0
+p = FP + 42: p ffefae2c | *p        1
+p = FP + 43: p ffefae30 | *p        2
+p = FP + 44: p ffefae34 | *p        3
+p = FP + 45: p ffefae38 | *p        1
+p = FP + 46: p ffefae3c | *p 76017e00
+p = FP + 47: p ffefae40 | *p        1
+p = FP + 48: p ffefae44 | *p ffefaf04
+p = FP + 49: p ffefae48 | *p ffefaf0c
+p = FP + 50: p ffefae4c | *p ffefae70
+p = FP + 51: p ffefae50 | *p        0
+p = FP + 52: p ffefae54 | *p f7f8f000
+p = FP + 53: p ffefae58 | *p        0
+p = FP + 54: p ffefae5c | *p f7dc6ee5
+p = FP + 55: p ffefae60 | *p f7f8f000
+p = FP + 56: p ffefae64 | *p f7f8f000
+p = FP + 57: p ffefae68 | *p        0
+p = FP + 58: p ffefae6c | *p f7dc6ee5
+p = FP + 59: p ffefae70 | *p        1
+p = FP + 60: p ffefae74 | *p ffefaf04
+p = FP + 61: p ffefae78 | *p ffefaf0c
+p = FP + 62: p ffefae7c | *p ffefae94
+p = FP + 63: p ffefae80 | *p f7f8f000
+p = FP + 64: p ffefae84 | *p f7fcf000
+p = FP + 65: p ffefae88 | *p ffefaee8
+p = FP + 66: p ffefae8c | *p        0
+p = FP + 67: p ffefae90 | *p f7fcf990
+p = FP + 68: p ffefae94 | *p        0
+p = FP + 69: p ffefae98 | *p f7f8f000
+p = FP + 70: p ffefae9c | *p f7f8f000
+p = FP + 71: p ffefaea0 | *p        0
+p = FP + 72: p ffefaea4 | *p 9332469e
+p = FP + 73: p ffefaea8 | *p f4b3e08e
+p = FP + 74: p ffefaeac | *p        0
+p = FP + 75: p ffefaeb0 | *p        0
+p = FP + 76: p ffefaeb4 | *p        0
+p = FP + 77: p ffefaeb8 | *p        0
+p = FP + 78: p ffefaebc | *p        0
+p = FP + 79: p ffefaec0 | *p        0
+p = FP + 80: p ffefaec4 | *p        0
+p = FP + 81: p ffefaec8 | *p f7fb417d
+p = FP + 82: p ffefaecc | *p 565d1fd0
+p = FP + 83: p ffefaed0 | *p        1
+p = FP + 84: p ffefaed4 | *p 565cf090
+p = FP + 85: p ffefaed8 | *p        0
+p = FP + 86: p ffefaedc | *p 565cf0c5
+p = FP + 87: p ffefaee0 | *p 565cf1cd
+p = FP + 88: p ffefaee4 | *p        1
+p = FP + 89: p ffefaee8 | *p ffefaf04
+p = FP + 90: p ffefaeec | *p 565cf5f0
+p = FP + 91: p ffefaef0 | *p 565cf660
+p = FP + 92: p ffefaef4 | *p f7fb42d0
+p = FP + 93: p ffefaef8 | *p ffefaefc
+p = FP + 94: p ffefaefc | *p       1c
+p = FP + 95: p ffefaf00 | *p        1
+p = FP + 96: p ffefaf04 | *p ffefc5c9
+p = FP + 97: p ffefaf08 | *p        0
+p = FP + 98: p ffefaf0c | *p ffefc5d1
+p = FP + 99: p ffefaf10 | *p ffefc5e1
+p = FP + 100: p ffefaf14 | *p ffefc5f8
+p = FP + 101: p ffefaf18 | *p ffefc604
+p = FP + 102: p ffefaf1c | *p ffefc62d
+p = FP + 103: p ffefaf20 | *p ffefc63a
+p = FP + 104: p ffefaf24 | *p ffefc64a
+p = FP + 105: p ffefaf28 | *p ffefc657
+p = FP + 106: p ffefaf2c | *p ffefc678
+p = FP + 107: p ffefaf30 | *p ffefcc5a
+p = FP + 108: p ffefaf34 | *p ffefcc7c
+p = FP + 109: p ffefaf38 | *p ffefcc90
+p = FP + 110: p ffefaf3c | *p ffefccb0
+p = FP + 111: p ffefaf40 | *p ffefccba
+p = FP + 112: p ffefaf44 | *p ffefccc2
+p = FP + 113: p ffefaf48 | *p ffefccca
+p = FP + 114: p ffefaf4c | *p ffefcd0b
+p = FP + 115: p ffefaf50 | *p ffefcfb2
+p = FP + 116: p ffefaf54 | *p ffefcfc2
+p = FP + 117: p ffefaf58 | *p ffefcfcc
+p = FP + 118: p ffefaf5c | *p        0
+p = FP + 119: p ffefaf60 | *p       20
+p = FP + 120: p ffefaf64 | *p f7fa1ef0
+p = FP + 121: p ffefaf68 | *p       21
+p = FP + 122: p ffefaf6c | *p f7fa1000
+p = FP + 123: p ffefaf70 | *p       10
+p = FP + 124: p ffefaf74 | *p 1f8bfbff
+p = FP + 125: p ffefaf78 | *p        6
+p = FP + 126: p ffefaf7c | *p     1000
+p = FP + 127: p ffefaf80 | *p       11
+exit B
+exit A
+exit main
